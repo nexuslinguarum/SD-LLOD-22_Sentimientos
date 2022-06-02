@@ -1,0 +1,1727 @@
+
+
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#>.
+@prefix marl: <http://www.gsi.dit.upm.es/ontologies/marl/ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix lexinfo: <http://www.lexinfo.net/ontology/3.0/lexinfo#>.
+
+### word: borba
+<http://kaiko.getalp.org/dbnary/ell/_srp__borba__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'borba'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__borba__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__borba__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__borba__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: čekati
+<http://kaiko.getalp.org/dbnary/ell/_srp__čekati__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'čekati'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__čekati__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__čekati__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__čekati__ρήμα__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: čist
+<http://kaiko.getalp.org/dbnary/ell/_srp__čist__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'čist'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__čist__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__čist__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__čist__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: dobro
+<http://kaiko.getalp.org/dbnary/ell/_srp__dobro__επίρρημα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'dobro'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__dobro__επίρρημα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__dobro__επίρρημα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__dobro__επίρρημα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: dodatak
+<http://kaiko.getalp.org/dbnary/ell/_srp__dodatak__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'dodatak'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__dodatak__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__dodatak__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__dodatak__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: gore
+<http://kaiko.getalp.org/dbnary/ita/_srp__gore__avv__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'gore'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__gore__avv__1>, <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__gore__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ita/_srp__gore__avv__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ita/_srp__gore__avv__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: goreti
+<http://kaiko.getalp.org/dbnary/ell/_srp__goreti__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'goreti'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__goreti__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__goreti__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__goreti__ρήμα__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: hrana
+<http://kaiko.getalp.org/dbnary/ell/_srp__hrana__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'hrana'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__hrana__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__hrana__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__hrana__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: hraniti
+<http://kaiko.getalp.org/dbnary/ell/_srp__hraniti__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'hraniti'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__hraniti__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__hraniti__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__hraniti__ρήμα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: izgubiti
+<http://kaiko.getalp.org/dbnary/ell/_srp__izgubiti__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'izgubiti'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__izgubiti__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__izgubiti__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__izgubiti__ρήμα__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: klupa
+<http://kaiko.getalp.org/dbnary/ell/_srp__klupa__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'klupa'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__klupa__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__klupa__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__klupa__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: kultura
+<http://kaiko.getalp.org/dbnary/ell/_srp__kultura__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'kultura'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__kultura__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__kultura__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__kultura__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: kvar
+<http://kaiko.getalp.org/dbnary/ell/_srp__kvar__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'kvar'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__kvar__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__kvar__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__kvar__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: alkohol
+<http://kaiko.getalp.org/dbnary/ell/_srp__alkohol__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'alkohol'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__alkohol__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__alkohol__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__alkohol__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: aristokratski
+<http://kaiko.getalp.org/dbnary/ell/_srp__aristokratski__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'aristokratski'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__aristokratski__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__aristokratski__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__aristokratski__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: autoritativan
+<http://kaiko.getalp.org/dbnary/ell/_srp__autoritativan__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'autoritativan'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__autoritativan__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__autoritativan__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__autoritativan__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: ćerka
+<http://kaiko.getalp.org/dbnary/ell/_srp__ćerka__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'ćerka'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ćerka__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ćerka__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ćerka__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: crn
+<http://kaiko.getalp.org/dbnary/ell/_srp__crn__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'crn'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__crn__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__crn__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__crn__επίθετο__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: izgovor
+<http://kaiko.getalp.org/dbnary/ell/_srp__izgovor__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'izgovor'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__izgovor__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__izgovor__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__izgovor__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: jeres
+<http://kaiko.getalp.org/dbnary/ell/_srp__jeres__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'jeres'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__jeres__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__jeres__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__jeres__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: klin
+<http://kaiko.getalp.org/dbnary/ell/_srp__klin__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'klin'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__klin__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__klin__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__klin__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: kralj
+<http://kaiko.getalp.org/dbnary/ita/_srp__kralj__sost__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'kralj'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__kralj__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ita/_srp__kralj__sost__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ita/_srp__kralj__sost__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: kucati
+<http://kaiko.getalp.org/dbnary/ell/_srp__kucati__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'kucati'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__kucati__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__kucati__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__kucati__ρήμα__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: lekcija
+<http://kaiko.getalp.org/dbnary/ell/_srp__lekcija__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'lekcija'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__lekcija__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__lekcija__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__lekcija__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: astrolog
+<http://kaiko.getalp.org/dbnary/ell/_srp__astrolog__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'astrolog'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__astrolog__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__astrolog__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__astrolog__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: dečko
+<http://kaiko.getalp.org/dbnary/ell/_srp__dečko__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'dečko'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__dečko__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__dečko__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__dečko__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: deklinacija
+<http://kaiko.getalp.org/dbnary/ell/_srp__deklinacija__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'deklinacija'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__deklinacija__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__deklinacija__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__deklinacija__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: dete
+<http://kaiko.getalp.org/dbnary/ell/_srp__dete__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'dete'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__dete__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__dete__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__dete__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: drug
+<http://kaiko.getalp.org/dbnary/ell/_srp__drug__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'drug'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__drug__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__drug__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__drug__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: kiša
+<http://kaiko.getalp.org/dbnary/ell/_srp__kiša__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'kiša'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__kiša__ουσιαστικό__1>, <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__kiša__nom__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__kiša__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__kiša__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: lav
+<http://kaiko.getalp.org/dbnary/ell/_srp__lav__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'lav'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__lav__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__lav__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__lav__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: autentičnost
+<http://kaiko.getalp.org/dbnary/ell/_srp__autentičnost__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'autentičnost'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__autentičnost__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__autentičnost__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__autentičnost__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: avet
+<http://kaiko.getalp.org/dbnary/ell/_srp__avet__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'avet'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__avet__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__avet__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__avet__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: avgust
+<http://kaiko.getalp.org/dbnary/spa/_srp__avgust__sustantivo_masculino__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'avgust'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/spa/__ws_1__srp__avgust__sustantivo_masculino__1>, <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__avgust__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/spa/_srp__avgust__sustantivo_masculino__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/spa/_srp__avgust__sustantivo_masculino__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: beo
+<http://kaiko.getalp.org/dbnary/ell/_srp__beo__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'beo'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__beo__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__beo__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__beo__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: breza
+<http://kaiko.getalp.org/dbnary/ell/_srp__breza__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'breza'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__breza__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__breza__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__breza__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: centar
+<http://kaiko.getalp.org/dbnary/ell/_srp__centar__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'centar'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__centar__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__centar__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__centar__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: despotizam
+<http://kaiko.getalp.org/dbnary/ell/_srp__despotizam__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'despotizam'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__despotizam__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__despotizam__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__despotizam__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: eksplozija
+<http://kaiko.getalp.org/dbnary/ell/_srp__eksplozija__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'eksplozija'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__eksplozija__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__eksplozija__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__eksplozija__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: garnizon
+<http://kaiko.getalp.org/dbnary/ell/_srp__garnizon__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'garnizon'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__garnizon__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__garnizon__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__garnizon__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: heroj
+<http://kaiko.getalp.org/dbnary/ell/_srp__heroj__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'heroj'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__heroj__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__heroj__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__heroj__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: hladno
+<http://kaiko.getalp.org/dbnary/ell/_srp__hladno__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'hladno'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__hladno__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__hladno__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__hladno__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: hronika
+<http://kaiko.getalp.org/dbnary/ell/_srp__hronika__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'hronika'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__hronika__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__hronika__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__hronika__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: astronom
+<http://kaiko.getalp.org/dbnary/ell/_srp__astronom__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'astronom'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__astronom__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__astronom__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__astronom__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: autor
+<http://kaiko.getalp.org/dbnary/ell/_srp__autor__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'autor'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__autor__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__autor__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__autor__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: autoritet
+<http://kaiko.getalp.org/dbnary/ell/_srp__autoritet__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'autoritet'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__autoritet__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__autoritet__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__autoritet__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: bitka
+<http://kaiko.getalp.org/dbnary/ell/_srp__bitka__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'bitka'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__bitka__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__bitka__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__bitka__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: cvet
+<http://kaiko.getalp.org/dbnary/ell/_srp__cvet__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'cvet'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__cvet__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__cvet__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__cvet__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: dobar
+<http://kaiko.getalp.org/dbnary/ell/_srp__dobar__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'dobar'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__dobar__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__dobar__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__dobar__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: jed
+<http://kaiko.getalp.org/dbnary/ell/_srp__jed__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'jed'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__jed__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__jed__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__jed__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: krevet
+<http://kaiko.getalp.org/dbnary/ell/_srp__krevet__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'krevet'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__krevet__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__krevet__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__krevet__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: kurva
+<http://kaiko.getalp.org/dbnary/ell/_srp__kurva__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'kurva'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__kurva__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__kurva__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__kurva__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: labirint
+<http://kaiko.getalp.org/dbnary/ell/_srp__labirint__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'labirint'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__labirint__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__labirint__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__labirint__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: lako
+<http://kaiko.getalp.org/dbnary/ell/_srp__lako__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'lako'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__lako__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__lako__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__lako__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: aplauz
+<http://kaiko.getalp.org/dbnary/ell/_srp__aplauz__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'aplauz'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__aplauz__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__aplauz__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__aplauz__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: azil
+<http://kaiko.getalp.org/dbnary/ell/_srp__azil__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'azil'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__azil__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__azil__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__azil__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: feminizam
+<http://kaiko.getalp.org/dbnary/ell/_srp__feminizam__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'feminizam'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__feminizam__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__feminizam__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__feminizam__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: funta
+<http://kaiko.getalp.org/dbnary/ell/_srp__funta__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'funta'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__funta__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__funta__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__funta__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: kriv
+<http://kaiko.getalp.org/dbnary/ell/_srp__kriv__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'kriv'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__kriv__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__kriv__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__kriv__επίθετο__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: lava
+<http://kaiko.getalp.org/dbnary/ell/_srp__lava__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'lava'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__lava__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__lava__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__lava__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: ljubazno
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubazno__επίρρημα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'ljubazno'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljubazno__επίρρημα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubazno__επίρρημα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljubazno__επίρρημα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: ljubomora
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubomora__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'ljubomora'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljubomora__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubomora__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljubomora__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: ljubomoran
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubomoran__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'ljubomoran'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljubomoran__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubomoran__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljubomoran__επίθετο__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: ljutnja
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljutnja__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'ljutnja'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljutnja__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljutnja__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljutnja__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: med
+<http://kaiko.getalp.org/dbnary/ell/_srp__med__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'med'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__med__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__med__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__med__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: mozak
+<http://kaiko.getalp.org/dbnary/ell/_srp__mozak__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'mozak'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__mozak__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__mozak__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__mozak__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: novac
+<http://kaiko.getalp.org/dbnary/ell/_srp__novac__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'novac'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__novac__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__novac__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__novac__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: pasti
+<http://kaiko.getalp.org/dbnary/fra/_srp__pasti__verb__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'pasti'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__pasti__verb__1>.
+
+<http://kaiko.getalp.org/dbnary/fra/_srp__pasti__verb__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/fra/_srp__pasti__verb__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: pokretač
+<http://kaiko.getalp.org/dbnary/ell/_srp__pokretač__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'pokretač'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__pokretač__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__pokretač__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__pokretač__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: ljigav
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljigav__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'ljigav'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljigav__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljigav__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljigav__επίθετο__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: ljubazan
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubazan__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'ljubazan'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljubazan__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubazan__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljubazan__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: magarac
+<http://kaiko.getalp.org/dbnary/ell/_srp__magarac__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'magarac'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__magarac__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__magarac__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__magarac__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: mudrost
+<http://kaiko.getalp.org/dbnary/ell/_srp__mudrost__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'mudrost'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__mudrost__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__mudrost__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__mudrost__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: nada
+<http://kaiko.getalp.org/dbnary/ell/_srp__nada__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'nada'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__nada__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__nada__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__nada__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: nivo
+<http://kaiko.getalp.org/dbnary/ell/_srp__nivo__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'nivo'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__nivo__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__nivo__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__nivo__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: nos
+<http://kaiko.getalp.org/dbnary/ell/_srp__nos__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'nos'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__nos__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__nos__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__nos__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: otrov
+<http://kaiko.getalp.org/dbnary/ell/_srp__otrov__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'otrov'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__otrov__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__otrov__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__otrov__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: pakao
+<http://kaiko.getalp.org/dbnary/ell/_srp__pakao__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'pakao'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__pakao__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__pakao__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__pakao__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: pamet
+<http://kaiko.getalp.org/dbnary/ell/_srp__pamet__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'pamet'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__pamet__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__pamet__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__pamet__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: plivati
+<http://kaiko.getalp.org/dbnary/ell/_srp__plivati__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'plivati'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__plivati__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__plivati__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__plivati__ρήμα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: ljubavnik
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubavnik__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'ljubavnik'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljubavnik__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubavnik__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljubavnik__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: ljubaznost
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubaznost__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'ljubaznost'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljubaznost__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubaznost__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljubaznost__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: mast
+<http://kaiko.getalp.org/dbnary/ita/_srp__mast__sost__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'mast'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__mast__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ita/_srp__mast__sost__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ita/_srp__mast__sost__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: mir
+<http://kaiko.getalp.org/dbnary/ita/_srp__mir__sost__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'mir'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__mir__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ita/_srp__mir__sost__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ita/_srp__mir__sost__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: mirno
+<http://kaiko.getalp.org/dbnary/ell/_srp__mirno__επίρρημα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'mirno'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__mirno__επίρρημα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__mirno__επίρρημα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__mirno__επίρρημα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: naročito
+<http://kaiko.getalp.org/dbnary/ell/_srp__naročito__επίρρημα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'naročito'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__naročito__επίρρημα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__naročito__επίρρημα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__naročito__επίρρημα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: naslov
+<http://kaiko.getalp.org/dbnary/ell/_srp__naslov__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'naslov'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__naslov__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__naslov__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__naslov__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: objasniti
+<http://kaiko.getalp.org/dbnary/ell/_srp__objasniti__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'objasniti'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__objasniti__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__objasniti__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__objasniti__ρήμα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: limun
+<http://kaiko.getalp.org/dbnary/ell/_srp__limun__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'limun'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__limun__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__limun__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__limun__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: lira
+<http://kaiko.getalp.org/dbnary/ell/_srp__lira__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'lira'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__lira__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__lira__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__lira__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: ljubimac
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubimac__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'ljubimac'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljubimac__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubimac__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljubimac__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: ljuska
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljuska__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'ljuska'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljuska__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljuska__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljuska__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: ljuto
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljuto__επίρρημα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'ljuto'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljuto__επίρρημα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljuto__επίρρημα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljuto__επίρρημα__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: maslina
+<http://kaiko.getalp.org/dbnary/ell/_srp__maslina__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'maslina'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__maslina__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__maslina__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__maslina__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: miran
+<http://kaiko.getalp.org/dbnary/ell/_srp__miran__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'miran'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__miran__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__miran__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__miran__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: odličan
+<http://kaiko.getalp.org/dbnary/ell/_srp__odličan__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'odličan'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__odličan__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__odličan__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__odličan__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: leden
+<http://kaiko.getalp.org/dbnary/ell/_srp__leden__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'leden'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__leden__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__leden__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__leden__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: ljubav
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubav__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'ljubav'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljubav__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubav__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljubav__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: ljubavnica
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubavnica__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'ljubavnica'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljubavnica__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljubavnica__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljubavnica__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: ljut
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljut__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'ljut'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ljut__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ljut__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ljut__επίθετο__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: malarija
+<http://kaiko.getalp.org/dbnary/ell/_srp__malarija__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'malarija'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__malarija__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__malarija__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__malarija__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: malo
+<http://kaiko.getalp.org/dbnary/ell/_srp__malo__επίρρημα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'malo'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__malo__επίρρημα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__malo__επίρρημα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__malo__επίρρημα__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: mraz
+<http://kaiko.getalp.org/dbnary/ell/_srp__mraz__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'mraz'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__mraz__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__mraz__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__mraz__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: mrtav
+<http://kaiko.getalp.org/dbnary/ell/_srp__mrtav__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'mrtav'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__mrtav__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__mrtav__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__mrtav__επίθετο__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: mrzeti
+<http://kaiko.getalp.org/dbnary/fra/_srp__mrzeti__verb__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'mrzeti'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__mrzeti__verb__1>.
+
+<http://kaiko.getalp.org/dbnary/fra/_srp__mrzeti__verb__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/fra/_srp__mrzeti__verb__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: muzika
+<http://kaiko.getalp.org/dbnary/ell/_srp__muzika__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'muzika'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__muzika__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__muzika__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__muzika__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: nažalost
+<http://kaiko.getalp.org/dbnary/ell/_srp__nažalost__επίρρημα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'nažalost'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__nažalost__επίρρημα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__nažalost__επίρρημα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__nažalost__επίρρημα__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: nositi
+<http://kaiko.getalp.org/dbnary/ell/_srp__nositi__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'nositi'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__nositi__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__nositi__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__nositi__ρήμα__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: opera
+<http://kaiko.getalp.org/dbnary/ell/_srp__opera__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'opera'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__opera__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__opera__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__opera__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: more
+<http://kaiko.getalp.org/dbnary/ell/_srp__more__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'more'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__more__ουσιαστικό__1>, <http://kaiko.getalp.org/dbnary/spa/__ws_1__srp__more__sustantivo_neutro__1>, <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__more__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__more__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__more__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: muški
+<http://kaiko.getalp.org/dbnary/ell/_srp__muški__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'muški'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__muški__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__muški__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__muški__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: nebo
+<http://kaiko.getalp.org/dbnary/ell/_srp__nebo__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'nebo'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__nebo__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__nebo__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__nebo__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: nezavisnost
+<http://kaiko.getalp.org/dbnary/ell/_srp__nezavisnost__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'nezavisnost'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__nezavisnost__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__nezavisnost__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__nezavisnost__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: nož
+<http://kaiko.getalp.org/dbnary/ell/_srp__nož__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'nož'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__nož__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__nož__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__nož__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: oaza
+<http://kaiko.getalp.org/dbnary/ell/_srp__oaza__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'oaza'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__oaza__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__oaza__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__oaza__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: ogroman
+<http://kaiko.getalp.org/dbnary/ell/_srp__ogroman__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'ogroman'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__ogroman__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__ogroman__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__ogroman__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: povećati
+<http://kaiko.getalp.org/dbnary/fra/_srp__povećati__verb__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'povećati'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__povećati__verb__1>.
+
+<http://kaiko.getalp.org/dbnary/fra/_srp__povećati__verb__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/fra/_srp__povećati__verb__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: presto
+<http://kaiko.getalp.org/dbnary/ita/_srp__presto__sost__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'presto'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__presto__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ita/_srp__presto__sost__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ita/_srp__presto__sost__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: pričati
+<http://kaiko.getalp.org/dbnary/fra/_srp__pričati__verb__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'pričati'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__pričati__verb__1>.
+
+<http://kaiko.getalp.org/dbnary/fra/_srp__pričati__verb__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/fra/_srp__pričati__verb__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: puška
+<http://kaiko.getalp.org/dbnary/ell/_srp__puška__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'puška'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__puška__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__puška__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__puška__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: rat
+<http://kaiko.getalp.org/dbnary/ell/_srp__rat__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'rat'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__rat__ουσιαστικό__1>, <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__rat__nom__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__rat__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__rat__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: rupa
+<http://kaiko.getalp.org/dbnary/ita/_srp__rupa__sost__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'rupa'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__rupa__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ita/_srp__rupa__sost__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ita/_srp__rupa__sost__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: sunce
+<http://kaiko.getalp.org/dbnary/ell/_srp__sunce__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'sunce'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__sunce__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__sunce__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__sunce__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: supruga
+<http://kaiko.getalp.org/dbnary/fra/_srp__supruga__nom__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'supruga'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__supruga__nom__1>.
+
+<http://kaiko.getalp.org/dbnary/fra/_srp__supruga__nom__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/fra/_srp__supruga__nom__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: svetlo
+<http://kaiko.getalp.org/dbnary/ell/_srp__svetlo__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'svetlo'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__svetlo__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__svetlo__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__svetlo__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: predsednik
+<http://kaiko.getalp.org/dbnary/ell/_srp__predsednik__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'predsednik'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__predsednik__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__predsednik__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__predsednik__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: prijatan
+<http://kaiko.getalp.org/dbnary/ell/_srp__prijatan__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'prijatan'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__prijatan__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__prijatan__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__prijatan__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: profesor
+<http://kaiko.getalp.org/dbnary/ell/_srp__profesor__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'profesor'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__profesor__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__profesor__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__profesor__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: prorok
+<http://kaiko.getalp.org/dbnary/fra/_srp__prorok__nom__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'prorok'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__prorok__nom__1>.
+
+<http://kaiko.getalp.org/dbnary/fra/_srp__prorok__nom__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/fra/_srp__prorok__nom__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: skup
+<http://kaiko.getalp.org/dbnary/ell/_srp__skup__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'skup'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__skup__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__skup__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__skup__επίθετο__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: slobodan
+<http://kaiko.getalp.org/dbnary/ell/_srp__slobodan__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'slobodan'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__slobodan__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__slobodan__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__slobodan__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: stvarno
+<http://kaiko.getalp.org/dbnary/ell/_srp__stvarno__επίρρημα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'stvarno'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__stvarno__επίρρημα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__stvarno__επίρρημα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__stvarno__επίρρημα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: pomoći
+<http://kaiko.getalp.org/dbnary/fra/_srp__pomoći__verb__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'pomoći'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__pomoći__verb__1>.
+
+<http://kaiko.getalp.org/dbnary/fra/_srp__pomoći__verb__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/fra/_srp__pomoći__verb__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: pravopis
+<http://kaiko.getalp.org/dbnary/ell/_srp__pravopis__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'pravopis'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__pravopis__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__pravopis__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__pravopis__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: reč
+<http://kaiko.getalp.org/dbnary/ell/_srp__reč__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'reč'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__reč__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__reč__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__reč__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: rod
+<http://kaiko.getalp.org/dbnary/ell/_srp__rod__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'rod'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__rod__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__rod__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__rod__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: ublažiti
+<http://kaiko.getalp.org/dbnary/fra/_srp__ublažiti__verb__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'ublažiti'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__ublažiti__verb__1>.
+
+<http://kaiko.getalp.org/dbnary/fra/_srp__ublažiti__verb__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/fra/_srp__ublažiti__verb__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: udoban
+<http://kaiko.getalp.org/dbnary/ell/_srp__udoban__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'udoban'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__udoban__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__udoban__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__udoban__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: problem
+<http://kaiko.getalp.org/dbnary/ell/_srp__problem__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'problem'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__problem__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__problem__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__problem__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: rad
+<http://kaiko.getalp.org/dbnary/ell/_srp__rad__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'rad'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__rad__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__rad__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__rad__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: sever
+<http://kaiko.getalp.org/dbnary/ell/_srp__sever__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'sever'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__sever__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__sever__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__sever__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: stajati
+<http://kaiko.getalp.org/dbnary/ell/_srp__stajati__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'stajati'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__stajati__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__stajati__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__stajati__ρήμα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: pismo
+<http://kaiko.getalp.org/dbnary/ell/_srp__pismo__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'pismo'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__pismo__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__pismo__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__pismo__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: shvatiti
+<http://kaiko.getalp.org/dbnary/ell/_srp__shvatiti__ρήμα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#verb>;
+    rdfs:label 'shvatiti'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__shvatiti__ρήμα__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__shvatiti__ρήμα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__shvatiti__ρήμα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: sreća
+<http://kaiko.getalp.org/dbnary/ell/_srp__sreća__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'sreća'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__sreća__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__sreća__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__sreća__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: zlato
+<http://kaiko.getalp.org/dbnary/ell/_srp__zlato__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'zlato'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__zlato__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__zlato__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__zlato__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: vrana
+<http://kaiko.getalp.org/dbnary/ell/_srp__vrana__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'vrana'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__vrana__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__vrana__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__vrana__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: živ
+<http://kaiko.getalp.org/dbnary/ell/_srp__živ__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'živ'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__živ__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__živ__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__živ__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: zvezda
+<http://kaiko.getalp.org/dbnary/ita/_srp__zvezda__sost__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'zvezda'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__zvezda__sost__1>, <http://kaiko.getalp.org/dbnary/ita/__ws_2__srp__zvezda__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ita/_srp__zvezda__sost__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ita/_srp__zvezda__sost__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: umoran
+<http://kaiko.getalp.org/dbnary/ell/_srp__umoran__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'umoran'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__umoran__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__umoran__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__umoran__επίθετο__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: upravljanje
+<http://kaiko.getalp.org/dbnary/ell/_srp__upravljanje__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'upravljanje'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__upravljanje__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__upravljanje__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__upravljanje__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: upravnik
+<http://kaiko.getalp.org/dbnary/ell/_srp__upravnik__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'upravnik'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__upravnik__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__upravnik__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__upravnik__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: uvek
+<http://kaiko.getalp.org/dbnary/ell/_srp__uvek__επίρρημα__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adverb>;
+    rdfs:label 'uvek'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__uvek__επίρρημα__1>, <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__uvek__avv__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__uvek__επίρρημα__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__uvek__επίρρημα__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: važan
+<http://kaiko.getalp.org/dbnary/ell/_srp__važan__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'važan'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__važan__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__važan__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__važan__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: zastava
+<http://kaiko.getalp.org/dbnary/ell/_srp__zastava__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'zastava'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__zastava__ουσιαστικό__1>, <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__zastava__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__zastava__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__zastava__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: živa
+<http://kaiko.getalp.org/dbnary/ell/_srp__živa__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'živa'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__živa__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__živa__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__živa__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: zlo
+<http://kaiko.getalp.org/dbnary/ell/_srp__zlo__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'zlo'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__zlo__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__zlo__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__zlo__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: zver
+<http://kaiko.getalp.org/dbnary/ell/_srp__zver__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'zver'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__zver__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__zver__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__zver__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: strana
+<http://kaiko.getalp.org/dbnary/ell/_srp__strana__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'strana'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__strana__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__strana__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__strana__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: sunđer
+<http://kaiko.getalp.org/dbnary/ell/_srp__sunđer__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'sunđer'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__sunđer__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__sunđer__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__sunđer__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: vampir
+<http://kaiko.getalp.org/dbnary/ell/_srp__vampir__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'vampir'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__vampir__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__vampir__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__vampir__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: zdrav
+<http://kaiko.getalp.org/dbnary/ell/_srp__zdrav__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'zdrav'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__zdrav__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__zdrav__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__zdrav__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: žena
+<http://kaiko.getalp.org/dbnary/ell/_srp__žena__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'žena'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__žena__ουσιαστικό__1>, <http://kaiko.getalp.org/dbnary/fra/__ws_1__srp__žena__nom__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__žena__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__žena__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: zmija
+<http://kaiko.getalp.org/dbnary/ell/_srp__zmija__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'zmija'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__zmija__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__zmija__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__zmija__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: vrh
+<http://kaiko.getalp.org/dbnary/ell/_srp__vrh__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'vrh'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__vrh__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__vrh__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__vrh__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: prijatelj
+<http://kaiko.getalp.org/dbnary/ell/_srp__prijatelj__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'prijatelj'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__prijatelj__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__prijatelj__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__prijatelj__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: promenljiv
+<http://kaiko.getalp.org/dbnary/ell/_srp__promenljiv__επίθετο__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#adjective>;
+    rdfs:label 'promenljiv'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__promenljiv__επίθετο__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__promenljiv__επίθετο__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__promenljiv__επίθετο__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: rečnik
+<http://kaiko.getalp.org/dbnary/ell/_srp__rečnik__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'rečnik'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__rečnik__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__rečnik__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__rečnik__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: sadržaj
+<http://kaiko.getalp.org/dbnary/ell/_srp__sadržaj__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'sadržaj'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__sadržaj__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__sadržaj__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__sadržaj__ουσιαστικό__1>;
+    marl:hasPolarity marl:positive.
+
+
+### word: slika
+<http://kaiko.getalp.org/dbnary/ell/_srp__slika__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'slika'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__slika__ουσιαστικό__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__slika__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__slika__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: vatra
+<http://kaiko.getalp.org/dbnary/ell/_srp__vatra__ουσιαστικό__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'vatra'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/ell/__ws_1__srp__vatra__ουσιαστικό__1>, <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__vatra__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/ell/_srp__vatra__ουσιαστικό__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/ell/_srp__vatra__ουσιαστικό__1>;
+    marl:hasPolarity marl:negative.
+
+
+### word: vera
+<http://kaiko.getalp.org/dbnary/spa/_srp__vera__sustantivo_femenino__1> a ontolex:lexicalEntry;
+    lexinfo:partOfSpeech <http://www.lexinfo.net/ontology/2.0/lexinfo#noun>;
+    rdfs:label 'vera'@sr;
+    ontolex:lexicalSense <http://kaiko.getalp.org/dbnary/spa/__ws_1__srp__vera__sustantivo_femenino__1>, <http://kaiko.getalp.org/dbnary/spa/__ws_2__srp__vera__sustantivo_femenino__1>, <http://kaiko.getalp.org/dbnary/spa/__ws_1__srp__vera__sustantivo_femenino__2>, <http://kaiko.getalp.org/dbnary/ita/__ws_2__srp__vera__sost__1>, <http://kaiko.getalp.org/dbnary/ita/__ws_1__srp__vera__sost__1>.
+
+<http://kaiko.getalp.org/dbnary/spa/_srp__vera__sustantivo_femenino__1/opinion> marl:describesObject <http://kaiko.getalp.org/dbnary/spa/_srp__vera__sustantivo_femenino__1>;
+    marl:hasPolarity marl:positive.
+
+
